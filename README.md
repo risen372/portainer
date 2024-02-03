@@ -1,4 +1,4 @@
-Massive collection of portainer containers for personal server use, from various places accross the web.
+Massive collection of portainer containers for personal server use, from various places accross the web. I have no clue what works or does not, but will remove anything I find that does not work.
 
 Credits:
 
@@ -16,3 +16,5 @@ Qballjos
 https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
 https://qballjos.github.io/portainer_templates/
 
+Portainer
+https://github.com/portainer/templates/blob/master/templates-2.0.json
