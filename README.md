@@ -1,5 +1,8 @@
 Massive collection of portainer containers for personal server use, from various places accross the web. I have no clue what works or does not, but will remove anything I find that does not work. There will be duplicates at the moment plans to slim down later.
 
+Raw link:
+https://raw.githubusercontent.com/risen372/portainer/main/templates.json
+
 Credits:
 
 Sorted useing 
